@@ -18,7 +18,6 @@
 
 - ✨ **WEB DEVELOPER**.
 
-- ✨ **Currently , mastering Data Structures and Algorithms in Java.**
 
 - ✨ **ONE LINE OF CODE AT A TIME.**
 

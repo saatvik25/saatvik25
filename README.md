@@ -34,13 +34,7 @@
 ## 📊 GitHub Analytics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saatvik25&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=saatvik25&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saatvik25&layout=compact&theme=radical" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saatvik25&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+ 
   <br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=saatvik25&theme=discord" alt="Trophies" />

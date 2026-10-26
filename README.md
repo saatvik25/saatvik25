@@ -27,7 +27,7 @@ I'm a **Software Engineer at GlobalLogic** with a background in Computer Science
 
 I enjoy building backend services, scalable APIs, full-stack applications, and AI-powered solutions. I'm particularly interested in clean architecture, database design, system design, and bringing machine learning capabilities into practical applications.
 
-- 💼 **Current Role:** Software Engineer at GlobalLogic
+- 💼 **Current Role:** Software Engineer 
 - 🎓 **Education:** B.Tech in Computer Science and Engineering — AI & ML
 - ☕ **Backend Engineering:** Java, Spring Boot, Python, FastAPI, REST APIs
 - 🌐 **Frontend Development:** React, TypeScript, JavaScript, HTML, CSS

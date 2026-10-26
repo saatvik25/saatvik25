@@ -65,7 +65,7 @@ My interests include designing clean APIs, developing database-driven applicatio
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" alt="Databases and caching"/>
 </p>
 
-### Cloud, DevOps & Tools
+### Cloud, DevOps & Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,azure,idea,vscode" alt="Cloud and development tools"/>
@@ -86,51 +86,54 @@ My interests include designing clean APIs, developing database-driven applicatio
 
 ---
 
-
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saatvik25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
+<a href="https://github.com/saatvik25">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saatvik25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/saatvik25">
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saatvik25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+</a>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=saatvik25&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
+<br/><br/>
+
+<a href="https://github.com/saatvik25">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saatvik25&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+</a>
+
 </div>
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=saatvik25&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies"/>
+</a>
+
+</div>
+
+---
 
 ## 🎯 Areas of Interest
 
-- Backend Engineering — Java, Spring Boot, Python, FastAPI
+- Backend Engineering — Java, Spring Boot, Python, and FastAPI
 - Full-Stack Application Development
 - AI Engineering and Generative AI
 - REST API Design and Database Architecture
 - System Design and Scalable Applications
 - Cloud-Native Development and Containerization
 
-
 ---
 
-## 📊 GitHub Analytics Dashboard
-
-<p align="center">
- 
-  <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saatvik25&theme=discord" alt="Trophies" />
-  </a>
-</p>
-
----
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=100&section=footer" width="100%" alt=""/>
-
-</div>
- ---
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -146,12 +149,13 @@ I'm always interested in discussing software engineering, exploring new technolo
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/saatvik25">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
 **Clean Code · Thoughtful Design · Continuous Learning**
 
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=100&section=footer" width="100%" alt="Footer"/>

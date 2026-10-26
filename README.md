@@ -127,7 +127,10 @@ My interests include designing clean APIs, developing database-driven applicatio
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=100&section=footer" width="100%" alt=""/>
 
+</div>
+ ---
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -150,8 +153,5 @@ I'm always interested in discussing software engineering, exploring new technolo
 
 **Clean Code · Thoughtful Design · Continuous Learning**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=100&section=footer" width="100%" alt=""/>
-
-</div>
 
 ---

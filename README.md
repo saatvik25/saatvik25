@@ -113,6 +113,19 @@ My interests include designing clean APIs, developing database-driven applicatio
 - System Design and Scalable Applications
 - Cloud-Native Development and Containerization
 
+
+---
+
+## 📊 GitHub Analytics Dashboard
+
+<p align="center">
+ 
+  <br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=saatvik25&theme=discord" alt="Trophies" />
+  </a>
+</p>
+
 ---
 
 ## 🤝 Let's Connect
@@ -140,30 +153,5 @@ I'm always interested in discussing software engineering, exploring new technolo
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=100&section=footer" width="100%" alt=""/>
 
 </div>
----
-
-## 📊 GitHub Analytics Dashboard
-
-<p align="center">
- 
-  <br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saatvik25&theme=discord" alt="Trophies" />
-  </a>
-</p>
 
 ---
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/saatvik-srivastava/"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
-  <a href="https://twitter.com/saatvik__14"><img src="https://img.icons8.com/fluency/48/twitter.png"/></a>
-</p>
-
----
-
-## ❤ Views & Followers
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saatvik25&color=blue" alt="Profile Views" />
-  <a href="https://github.com/saatvik25?tab=followers"><img src="https://img.shields.io/github/followers/saatvik25?label=Followers&style=social" alt="Followers"/></a>
-</p>\

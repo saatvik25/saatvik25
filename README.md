@@ -161,28 +161,4 @@ I'm always interested in discussing software engineering, exploring new technolo
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=100&section=footer" width="100%" alt="Footer"/>
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/saatvik25">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saatvik25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/saatvik25">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saatvik25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=saatvik25&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<a href="https://github.com/saatvik25">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saatvik25&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-</a>
-
-</div>
-
----
 

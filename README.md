@@ -99,10 +99,12 @@ My interests include designing clean APIs, developing database-driven applicatio
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=saatvik25&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<!-- GitHub contribution streak -->
+<img src="https://streak-stats.demolab.com?user=saatvik25&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
+<!-- GitHub contribution activity graph -->
 <a href="https://github.com/saatvik25">
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saatvik25&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
 </a>
